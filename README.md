@@ -9,7 +9,7 @@
 
 ## Connect a GitHub Repo with AWS
 
-![Image](aws-devops-github_dd9d254e)
+![Image](AWS-Devops-GitHub/Screenshot 2025-02-15 at 5.15.16 PM.png)
 
 ---
 
@@ -36,6 +36,8 @@ sudo dnf install git -y
 
 
 If Git is the tool for tracking changes, think of GitHub as a storage space for different version of your project that Git tracks. I'm using GitHub in this project to store the different versions of the code changes. 
+
+![Image](aws-devops-github_dd9d254e)
 
 ![Image](aws-devops-github_efaadbf7)
 
