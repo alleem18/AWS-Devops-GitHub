@@ -9,7 +9,7 @@
 
 ## Connect a GitHub Repo with AWS
 
-![Image](http://learn.nextwork.org/surprised_black_smart_goose/uploads/aws-devops-github_dd9d254e)
+![Image](aws-devops-github_dd9d254e)
 
 ---
 
@@ -37,7 +37,7 @@ sudo dnf install git -y
 
 If Git is the tool for tracking changes, think of GitHub as a storage space for different version of your project that Git tracks. I'm using GitHub in this project to store the different versions of the code changes. 
 
-![Image](http://learn.nextwork.org/surprised_black_smart_goose/uploads/aws-devops-github_efaadbf7)
+![Image](aws-devops-github_efaadbf7)
 
 ---
 
@@ -49,7 +49,7 @@ git init is a command that sets up the directory as a local Git repository which
 
 After running git init, the response from the terminal was to set a the folder as the repository and as a main branch. A branch in Git is parallel versions of the code .
 
-![Image](http://learn.nextwork.org/surprised_black_smart_goose/uploads/aws-devops-github_7bf21bae)
+![Image](aws-devops-github_7bf21bae)
 
 ---
 
@@ -80,7 +80,7 @@ Git needs my name and email for commits to track who made what change.
 
 Running git log shows the hiostory of the branch commits, also mentions the author's name.
 
-![Image](http://learn.nextwork.org/surprised_black_smart_goose/uploads/aws-devops-github_9a27ee3b)
+![Image](aws-devops-github_9a27ee3b)
 
 ---
 
@@ -94,7 +94,7 @@ I could set up a GitHub token by going to GitHub, selecting Settings > Developer
 Select Generate new token. 
 
 
-![Image](http://learn.nextwork.org/surprised_black_smart_goose/uploads/aws-devops-github_fa11169d)
+![Image](aws-devops-github_fa11169d)
 
 ---
 
@@ -104,7 +104,7 @@ I wanted to see Git working in action, so I have updated the index.jsp file.  I 
 
 I finally saw the changes in my GitHub repo after git push command
 
-![Image](http://learn.nextwork.org/surprised_black_smart_goose/uploads/aws-devops-github_6becb2bc)
+![Image](aws-devops-github_6becb2bc)
 
 ---
 
@@ -116,7 +116,7 @@ My README is written in Markdown because you can make words bold, create headers
 
 My README file has 6 sections that outline Project name, Introduction, Technologies, Setup, Contact, Conclusion. 
 
-![Image](http://learn.nextwork.org/surprised_black_smart_goose/uploads/aws-devops-github_c94976902)
+![Image](aws-devops-github_c94976902)
 
 ---
 
