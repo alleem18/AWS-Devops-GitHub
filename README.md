@@ -9,7 +9,7 @@
 
 ## Connect a GitHub Repo with AWS
 
-![Image](AWS-Devops-GitHub/Screenshot 2025-02-15 at 5.15.16 PM.png)
+![Image](https://raw.githubusercontent.com/alleem18/AWS-DevOps-GitHub/main/AWS-P2.png)
 
 ---
 
